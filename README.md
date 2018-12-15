@@ -9,5 +9,5 @@ And in homework file, it's the code homework of the lessons, they are totally co
 I have a personal blog about this lesson and homework, most them are witten in Chinese, for your preference:
 blog.csdn.net/solo95
 
-Steve Wang(王宏泽)
+Steve Wang(王宏泽) /br
 wanghongzecn@qq.com
