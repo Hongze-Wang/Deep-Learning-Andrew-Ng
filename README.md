@@ -14,5 +14,5 @@ blog.csdn.net/solo95
 
 Hope this will be helpful for you.
 
-Steve Wang(王宏泽) 
+Steve Wang 
 wanghongzecn@qq.com
